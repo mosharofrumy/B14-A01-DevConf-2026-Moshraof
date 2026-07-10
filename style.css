@@ -52,7 +52,7 @@ body {
 }
 
 .register-button {
-    /* text-decoration:none; */
+    text-decoration:none;
     background: #2f5bea;
     color: #fff;
     padding: 15px 34px;
@@ -92,7 +92,7 @@ body {
     font-size: 70px;
     font-weight: 800;
     margin-bottom: 20px;
-    /* line-height: 1.1; */
+    line-height: 1.1;
 
 
 }
@@ -240,7 +240,7 @@ body {
 
 .price-card ul {
     list-style: none;
-    /* color: #2f5bea; */
+    color: #2f5bea;
 }
 
 .price-card li {
